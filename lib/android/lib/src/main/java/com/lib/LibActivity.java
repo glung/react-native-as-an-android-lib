@@ -2,7 +2,7 @@ package com.lib;
 
 import com.facebook.react.ReactActivity;
 
-public class MainActivity extends ReactActivity {
+public class LibActivity     extends ReactActivity {
 
     /**
      * Returns the name of the main component registered from JavaScript.
