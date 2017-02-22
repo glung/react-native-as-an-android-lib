@@ -8,7 +8,7 @@ Benefits are :
 - Keep an exiting app setup, i.e. do not plainly move and commit to the platform. 
 - Use the power of react-native : 
  - To handover certain apsect of an app to non-android developerse (sign in / up for instance)
- - To prototype quicly. 
+ - To prototype quickly. 
 
 ## Approach 
 
